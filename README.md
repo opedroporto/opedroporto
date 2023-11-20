@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Pedro Porto 👋</h1>
+<h3 align="center">Olá, eu sou um Desenvolvedor Full Stack de Sorocaba, São Paulo</h3>
 
-<!--
-**opedroporto/opedroporto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <h3 align="center">Tecnologias mais usadas: Python | Flask | Git | Docker | Azure | SQL | JavaScript | PHP</h3>
 
-Here are some ideas to get you started:
+## <h3 align="center">Contato:</h3>
+<p align="center">
+  <a href="mailto:portopdr@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=portopdr@gmail.com" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://www.linkedin.com/in/opedroporto/" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/opedroporto" /></a>
+</p>
+
