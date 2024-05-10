@@ -1,5 +1,5 @@
 <h1 align="center">Pedro Porto 👋</h1>
-<h3 align="center">Olá, eu sou um Desenvolvedor Full Stack de Sorocaba, São Paulo</h3>
+<h3 align="center">Olá, eu sou um Desenvolvedor Full Stack</h3>
 
 ## <h3 align="center">Tecnologias mais usadas: Python | Flask | Git | Docker | Azure | SQL | JavaScript | PHP</h3>
 
